@@ -5,7 +5,7 @@
 #include <vector>
 
 int main() {
-	// User inputs parameters: order, length and number of segments
+	std::cout << "User inputs parameters: order, length and number of segments:";
 	int order;
 	std::cout << "Please input the order of the B-spline curve: ";
 	std::cin >> order;
