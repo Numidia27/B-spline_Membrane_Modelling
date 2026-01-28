@@ -28,6 +28,5 @@ The solver is implemented in **C++**, built upon an existing numerical computati
 - Lagrangian Dynamics  
 - Partial Differential Equations (PDEs)  
 - Finite Difference Method (FDM)  
-- Real-Time Simulation  
 - C++
 
