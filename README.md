@@ -30,6 +30,30 @@ The solver is implemented in **C++**, built upon an existing numerical computati
 - Finite Difference Method (FDM)  
 - C++
 
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="case-study-result/Membrane at Initial Condition.png" width="260"><br>
+      <b>Case 1: Point load</b><br>
+      <sub>Short description of what the figure shows.</sub>
+    </td>
+    <td align="center">
+      <img src="case-study-result/Membrane after 1 second.png" width="260"><br>
+      <b>Case 2: Uniform pressure</b><br>
+      <sub>Short description of what the figure shows.</sub>
+    </td>
+    <td align="center">
+      <img src="case-study-result/Membrane after 5 seconds.png" width="260"><br>
+      <b>Case 3: Damped response</b><br>
+      <sub>Short description of what the figure shows.</sub>
+    </td>
+  </tr>
+</table>
+
+
+
+
 ## Results – Case Studies
 <p float="left">
   <img src="case-study-result/image1 - Membrane at Initial Condition.png" width="240" />
