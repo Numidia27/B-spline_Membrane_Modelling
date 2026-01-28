@@ -32,9 +32,40 @@ The solver is implemented in **C++**, built upon an existing numerical computati
 
 ## Results – Case Studies
 
-### Case Study 1 — High Tension
+<details open>
+<summary><b>Case Study A</b> (7 frames)</summary>
+<br>
+<p float="left">
+  <img src="case-study-result/image1 - Membrane at Initial Condition.png" width="240" />
+  <img src="case-study-result/image2 - Membrane after 1 second.png" width="240" />
+  <img src="case-study-result/image3 - Membrane after 5 seconds.png" width="240" />
+  <img src="case-study-result/image4 - Membrane after 10 seconds.png" width="240" />
+</p>
+<p float="left">
+  <img src="case-study-result/image5 - Membrane after 15 seconds.png" width="240" />
+  <img src="case-study-result/image6 - Membrane after 20 seconds.png" width="240" />
+  <img src="case-study-result/image7 - Membrane after 25 seconds.png" width="240" />
+</p>
 
+</details>
 
+<details open>
+<summary><b>Case Study B</b> (7 frames)</summary>
+<br>
+
+<p float="left">
+  <img src="case-study-result/image8-Membrane after 30 seconds.png" width="240" />
+  <img src="case-study-result/image9-Membrane after 35 seconds.png" width="240" />
+  <img src="case-study-result/image10-Membrane after 40 seconds.png" width="240" />
+  <img src="case-study-result/image11-Membrane after 45 seconds.png" width="240" />
+</p>
+<p float="left">
+  <img src="case-study-result/image12-Membrane after 50 seconds.png" width="240" />
+  <img src="case-study-result/image13-Membrane after 55 seconds.png" width="240" />
+  <img src="case-study-result/image14-Membrane after 59 seconds.png" width="240" />
+</p>
+
+</details>
 
 
 
