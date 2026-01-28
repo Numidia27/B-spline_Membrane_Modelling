@@ -1,4 +1,4 @@
-### *Dynamic-Based Modelling of Surface and Volumetric Objects*
+# *Dynamic-Based Modelling of Surface and Volumetric Objects*
 
 ## Project Aim
 To develop a **prototype application** for the **real-time modelling of membranes and elastic solids**
@@ -23,13 +23,27 @@ The solver is implemented in **C++**, built upon an existing numerical computati
 - Time-dependent membrane deformation
 - C++ implementation with numerical libraries
 
-
-
-
 ## Technical Keywords
 - B-Spline Curves & Surfaces  
 - Lagrangian Dynamics  
 - Partial Differential Equations (PDEs)  
 - Finite Difference Method (FDM)  
 - C++
+
+## Results – Case Studies
+
+### Case Study 1 — High Tension
+
+
+
+
+
+
+
+
+
+
+
+
+
 
