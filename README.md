@@ -6,7 +6,7 @@ under applied forces.
 
 
 ## Overview
-This project implements a physics‑informed C++ simulation framework for dynamic B‑spline surfaces
+This project implements a physics‑informed C++ simulation of dynamic B‑spline surfaces
 and deformable solids, enabling parameter‑driven, time‑dependent analysis of structural response under applied forces. </br>
 
 The dynamics of the membranes are formulated using **Lagrangian mechanics**, where the
@@ -16,12 +16,15 @@ using the **finite difference method (FDM)**.
 The solver is implemented in **C++**, built upon an existing numerical computation library.
 
 ## Key Features
-- Real-time, physics-based modelling of **membranes and deformable surfaces**
-- Parametric generation of **B-spline curves and surfaces**
-- Dynamic simulation using **Lagrange-based formulations**
-- Numerical Partial Differential Equation solver via **Finite Difference Method**
-- Time-dependent analysis through parameter variation
-- C++ implementation
+- Dynamic B-spline surface modelling
+- Lagrange-based formulation of membrane dynamics
+- Numerical Partial Differential Equation solver via Finite Difference Method
+- Parameter-driven simulation (density, damping, tension)
+- Time-dependent membrane deformation
+- C++ implementation with numerical libraries
+
+
+
 
 ## Technical Keywords
 - B-Spline Curves & Surfaces  
