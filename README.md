@@ -19,7 +19,7 @@ The solver is implemented in **C++**, built upon an existing numerical computati
 - Real-time, physics-based modelling of **membranes and deformable surfaces**
 - Parametric generation of **B-spline curves and surfaces**
 - Dynamic simulation using **Lagrange-based formulations**
-- Numerical  Partial Differential Equation solver via Finite Difference Method
+- Numerical Partial Differential Equation solver via **Finite Difference Method**
 - Time-dependent analysis through parameter variation
 - C++ implementation
 
