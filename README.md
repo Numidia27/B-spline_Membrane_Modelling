@@ -39,12 +39,12 @@ The solver is implemented in **C++**, built upon an existing numerical computati
         <sub>Short description of what the figure shows.</sub>
       </td>
       <td align="center">
-        <img src="case-study-result/img1-Membrane-after-1-second.png" width="260"><br>
+        <img src="case-study-result/img2-Membrane-after-1-second.png" width="260"><br>
         <b>Membrane after 1 second</b><br>
         <sub>Short description of what the figure shows.</sub>
       </td>
       <td align="center">
-        <img src="case-study-result/img1-Membrane-after-5-seconds.png" width="260"><br>
+        <img src="case-study-result/img3-Membrane-after-5-seconds.png" width="260"><br>
         <b>Membrane after 5 seconds</b><br>
         <sub>Short description of what the figure shows.</sub>
       </td>
@@ -52,17 +52,17 @@ The solver is implemented in **C++**, built upon an existing numerical computati
     
     <tr>
       <td align="center">
-        <img src="case-study-result/img1-Membrane-after-10-seconds.png" width="260"><br>
+        <img src="case-study-result/img4-Membrane-after-10-seconds.png" width="260"><br>
         <b>Membrane after 10 seconds</b><br>
         <sub>Short description of what the figure shows.</sub>
       </td>
       <td align="center">
-        <img src="case-study-result/Membrane after 15 seconds.png" width="260"><br>
+        <img src="case-study-result/img5-Membrane after 15 seconds.png" width="260"><br>
         <b>Membrane after 15 seconds</b><br>
         <sub>Short description of what the figure shows.</sub>
       </td>
       <td align="center">
-        <img src="case-study-result/Membrane after 20 seconds.png" width="260"><br>
+        <img src="case-study-result/img6-Membrane after 20 seconds.png" width="260"><br>
         <b>Membrane after 20 seconds</b><br>
         <sub>Short description of what the figure shows.</sub>
       </td>
@@ -70,17 +70,17 @@ The solver is implemented in **C++**, built upon an existing numerical computati
 
     <tr>
       <td align="center">
-        <img src="case-study-result/Membrane after 25 seconds.png" width="260"><br>
+        <img src="case-study-result/img7-Membrane after 25 seconds.png" width="260"><br>
         <b>Membrane after 25 seconds</b><br>
         <sub>Short description of what the figure shows.</sub>
       </td>
       <td align="center">
-        <img src="case-study-result/Membrane after 30 seconds.png" width="260"><br>
+        <img src="case-study-result/img8-Membrane after 30 seconds.png" width="260"><br>
         <b>Membrane after 30 seconds</b><br>
         <sub>Short description of what the figure shows.</sub>
       </td>
       <td align="center">
-        <img src="case-study-result/Membrane after 35 seconds.png" width="260"><br>
+        <img src="case-study-result/img9-Membrane after 35 seconds.png" width="260"><br>
         <b>Membrane after 35 seconds</b><br>
         <sub>Short description of what the figure shows.</sub>
       </td>
@@ -88,17 +88,17 @@ The solver is implemented in **C++**, built upon an existing numerical computati
     
     <tr>
       <td align="center">
-        <img src="case-study-result/Membrane after 40 seconds.png" width="260"><br>
+        <img src="case-study-result/img10-Membrane after 40 seconds.png" width="260"><br>
         <b>Membrane after 40 seconds</b><br>
         <sub>Short description of what the figure shows.</sub>
       </td>
       <td align="center">
-        <img src="case-study-result/Membrane after 45 seconds.png" width="260"><br>
+        <img src="case-study-result/img11-Membrane after 45 seconds.png" width="260"><br>
         <b>Membrane after 45 seconds</b><br>
         <sub>Short description of what the figure shows.</sub>
       </td>
       <td align="center">
-        <img src="case-study-result/Membrane after 50 seconds.png" width="260"><br>
+        <img src="case-study-result/img12-Membrane after 50 seconds.png" width="260"><br>
         <b>Membrane after 50 seconds</b><br>
         <sub>Short description of what the figure shows.</sub>
       </td>
@@ -106,12 +106,12 @@ The solver is implemented in **C++**, built upon an existing numerical computati
     
     <tr>
       <td align="center">
-        <img src="case-study-result/Membrane after 55 seconds.png" width="260"><br>
+        <img src="case-study-result/img13-Membrane after 55 seconds.png" width="260"><br>
         <b>Membrane after 55 seconds</b><br>
         <sub>Short description of what the figure shows.</sub>
       </td>
       <td align="center">
-        <img src="case-study-result/Membrane after 59 seconds.png" width="260"><br>
+        <img src="case-study-result/img14-Membrane after 59 seconds.png" width="260"><br>
         <b>Membrane after 59 seconds</b><br>
         <sub>Short description of what the figure shows.</sub>
       </td>
