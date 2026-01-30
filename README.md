@@ -95,15 +95,6 @@ In this case study, the values of the membranes parameters are set as shown in t
     </tr>
   </tbody>
 </table>
-
-<p style="
-  margin-top: 4px;
-  font-family: serif;
-  font-size: 15px;
-  text-align: center;
-">
-  <b>Table 5.1:</b> B-spline and Physical Parameters &amp; Values of the Membrane in Case Study 1
-</p>
 </div>
 
 <!-- different images of the simulation -->
