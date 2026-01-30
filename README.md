@@ -1,7 +1,7 @@
-# *Dynamic-Based Modelling of Surface and Volumetric Objects*
+# Dynamic-Based Modelling of Surface and Volumetric Objects
 
 ## Project Aim
-To develop a **prototype application** for the **real-time modelling of membranes and elastic solids**
+To develop a prototype application for the real-time modelling of membranes and elastic solids
 under applied forces.
 
 
@@ -9,11 +9,11 @@ under applied forces.
 This project implements a physics‑informed C++ simulation of dynamic B‑spline surfaces
 and deformable solids, enabling parameter‑driven, time‑dependent analysis of structural response under applied forces. </br>
 
-The dynamics of the membranes are formulated using **Lagrangian mechanics**, where the
+The dynamics of the membranes are formulated using Lagrangian mechanics, where the
 equations of motion are expressed in terms of B-spline control points. This formulation
-leads to a system of **partial differential equations (PDEs)**, which is solved numerically
-using the **finite difference method (FDM)**. 
-The solver is implemented in **C++**, built upon an existing numerical computation library.
+leads to a system of Partial Differential Equations (PDEs), which is solved numerically
+using the Finite Difference Method (FDM). 
+The solver is implemented in C++, built upon an existing numerical computation library.
 
 ## Key Features
 - Dynamic B-spline surface modelling
@@ -62,12 +62,12 @@ In this case study, the values of the membranes parameters are set as shown in t
 
   <tbody>
     <tr>
-      <td style="padding: 0px 8px; border-right: 2px solid black;">Order</td>
-      <td style="padding: 0px 8px; text-align: center;">4</td>
+      <td style="padding: 1px 10px; border-right: 2px solid black;">Order</td>
+      <td style="padding: 1px 10px; text-align: center;">4</td>
     </tr>
     <tr>
-      <td style="padding: 0px 8px; border-right: 2px solid black;">Membrane Length</td>
-      <td style="padding: 0px 8px; text-align: center;">16</td>
+      <td style="padding: 1px 10px; border-right: 2px solid black;">Membrane Length</td>
+      <td style="padding: 1px 10px; text-align: center;">16</td>
     </tr>
     <tr>
       <td style="padding: 1px 10px; border-right: 2px solid black;">Number of segments</td>
