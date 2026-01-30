@@ -32,17 +32,18 @@ The solver is implemented in **C++**, built upon an existing numerical computati
 
 ## Results – Case Study
 In this case study, the values of the membranes parameters are set as shown in the table below. The density and damping are low and the tension is high.
+<div align="center">
+
 <table style="
   border-collapse: collapse;
-  margin: auto;
   font-family: serif;
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1.1;
 ">
   <thead>
     <tr>
       <th style="
-        padding: 4px 14px;
+        padding: 2px 10px;
         border-bottom: 2px solid black;
         border-right: 2px solid black;
         text-align: left;
@@ -50,7 +51,7 @@ In this case study, the values of the membranes parameters are set as shown in t
         Parameters
       </th>
       <th style="
-        padding: 4px 14px;
+        padding: 2px 10px;
         border-bottom: 2px solid black;
         text-align: center;
       ">
@@ -61,39 +62,54 @@ In this case study, the values of the membranes parameters are set as shown in t
 
   <tbody>
     <tr>
-      <td style="padding: 2px 14px; border-right: 2px solid black;">Order</td>
-      <td style="padding: 2px 14px; text-align: center;">4</td>
+      <td style="padding: 1px 10px; border-right: 2px solid black;">Order</td>
+      <td style="padding: 1px 10px; text-align: center;">4</td>
     </tr>
     <tr>
-      <td style="padding: 2px 14px; border-right: 2px solid black;">Membrane Length</td>
-      <td style="padding: 2px 14px; text-align: center;">16</td>
+      <td style="padding: 1px 10px; border-right: 2px solid black;">Membrane Length</td>
+      <td style="padding: 1px 10px; text-align: center;">16</td>
     </tr>
     <tr>
-      <td style="padding: 2px 14px; border-right: 2px solid black;">Number of segments</td>
-      <td style="padding: 2px 14px; text-align: center;">7</td>
+      <td style="padding: 1px 10px; border-right: 2px solid black;">Number of segments</td>
+      <td style="padding: 1px 10px; text-align: center;">7</td>
     </tr>
     <tr>
-      <td style="padding: 2px 14px; border-right: 2px solid black;">Point Coordinates in u &amp; v</td>
-      <td style="padding: 2px 14px; text-align: center;">3, 3</td>
+      <td style="padding: 1px 10px; border-right: 2px solid black;">Point Coordinates in u &amp; v</td>
+      <td style="padding: 1px 10px; text-align: center;">3, 3</td>
     </tr>
     <tr>
-      <td style="padding: 2px 14px; border-right: 2px solid black;">Density</td>
-      <td style="padding: 2px 14px; text-align: center;">0.01</td>
+      <td style="padding: 1px 10px; border-right: 2px solid black;">Density</td>
+      <td style="padding: 1px 10px; text-align: center;">0.01</td>
     </tr>
     <tr>
-      <td style="padding: 2px 14px; border-right: 2px solid black;">Damping</td>
-      <td style="padding: 2px 14px; text-align: center;">0.02</td>
+      <td style="padding: 1px 10px; border-right: 2px solid black;">Damping</td>
+      <td style="padding: 1px 10px; text-align: center;">0.02</td>
     </tr>
     <tr>
-      <td style="padding: 2px 14px; border-right: 2px solid black;">Tension</td>
-      <td style="padding: 2px 14px; text-align: center;">3625000.0</td>
+      <td style="padding: 1px 10px; border-right: 2px solid black;">Tension</td>
+      <td style="padding: 1px 10px; text-align: center;">3625000.0</td>
     </tr>
     <tr>
-      <td style="padding: 2px 14px; border-right: 2px solid black;">Execution Time (s)</td>
-      <td style="padding: 2px 14px; text-align: center;">59</td>
+      <td style="padding: 1px 10px; border-right: 2px solid black;">Execution Time (s)</td>
+      <td style="padding: 1px 10px; text-align: center;">59</td>
     </tr>
   </tbody>
 </table>
+
+<p style="
+  margin-top: 4px;
+  font-family: serif;
+  font-size: 15px;
+  text-align: center;
+">
+  <b>Table 5.1:</b> B-spline and Physical Parameters &amp; Values of the Membrane in Case Study 1
+</p>
+</div>
+
+
+
+
+
 
 
 
