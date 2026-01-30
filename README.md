@@ -30,7 +30,60 @@ The solver is implemented in **C++**, built upon an existing numerical computati
 - Finite Difference Method (FDM)  
 - C++
 
-## Results – Case Studies
+## Results – Case Study
+In this case study, the values of the membranes parameters are set as shown in the table below. The density and damping are low and the tension is high.
+
+<table style="border-collapse:collapse; margin: 0 auto; font-family: serif; font-size: 18px;">
+  <thead>
+    <tr>
+      <th style="padding:4px 16px; border-bottom:2px solid #000; border-right:2px solid #000;">
+        Parameters
+      </th>
+      <th style="padding:4px 16px; border-bottom:2px solid #000;">
+        Values
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:2px 16px; border-right:2px solid #000;">Order</td>
+      <td style="padding:2px 16px;">4</td>
+    </tr>
+    <tr>
+      <td style="padding:2px 16px; border-right:2px solid #000;">Membrane Length</td>
+      <td style="padding:2px 16px;">16</td>
+    </tr>
+    <tr>
+      <td style="padding:2px 16px; border-right:2px solid #000;">Number of segments</td>
+      <td style="padding:2px 16px;">7</td>
+    </tr>
+    <tr>
+      <td style="padding:2px 16px; border-right:2px solid #000;">Point Coordinates in u &amp; v</td>
+      <td style="padding:2px 16px;">3, 3</td>
+    </tr>
+    <tr>
+      <td style="padding:2px 16px; border-right:2px solid #000;">Density</td>
+      <td style="padding:2px 16px;">0.01</td>
+    </tr>
+    <tr>
+      <td style="padding:2px 16px; border-right:2px solid #000;">Damping</td>
+      <td style="padding:2px 16px;">0.02</td>
+    </tr>
+    <tr>
+      <td style="padding:2px 16px; border-right:2px solid #000;">Tension</td>
+      <td style="padding:2px 16px;">3625000.0</td>
+    </tr>
+    <tr>
+      <td style="padding:2px 16px; border-right:2px solid #000;">Execution Time in Seconds</td>
+      <td style="padding:2px 16px;">59</td>
+    </tr>
+  </tbody>
+</table>
+
+<p style="text-align:center; font-family: serif; font-size: 18px; margin-top:10px;">
+  B-spline and Physical Parameters &amp; Values of the Membrane in Case Study 1
+</p>
+
 <table>
 <tr>
   <td align="center">
