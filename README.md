@@ -36,17 +36,20 @@ The solver is implemented in **C++**, built upon an existing numerical computati
   <td align="center">
     <img src="case-study-result/img1-Membrane-at-Initial-Condition.png" width="260"><br>
     <b>Membrane at Initial Condition</b><br>
-    <sub>Short description of what the figure shows.</sub>
+    <sub>This figure represents the membrane at the initial condition state, which also display the initial pluck condition of the surface.</sub>
   </td>
   <td align="center">
     <img src="case-study-result/img2-Membrane-after-1-second.png" width="260"><br>
     <b>Membrane after 1 second</b><br>
-    <sub>Short description of what the figure shows.</sub>
+    <sub>The membrane the surface after 1 second, where the pluck in the surface is almost similar at the initial pluck of
+    the surface, although the membrane has been set into motion and started absorbing the energies.</sub>
   </td>
   <td align="center">
     <img src="case-study-result/img3-Membrane-after-5-seconds.png" width="260"><br>
     <b>Membrane after 5 seconds</b><br>
-    <sub>Short description of what the figure shows.</sub>
+    <sub>After 5 seconds, the state of the membrane changed significantly, where the
+energy dissipate across the surface and the pluck pulled down the equilibrium axe of the
+surface.</sub>
   </td>
 </tr>
 
@@ -54,17 +57,17 @@ The solver is implemented in **C++**, built upon an existing numerical computati
   <td align="center">
     <img src="case-study-result/img4-Membrane-after-10-seconds.png" width="260"><br>
     <b>Membrane after 10 seconds</b><br>
-    <sub>Short description of what the figure shows.</sub>
+    <sub>The membrane then slightly started to bounce up again to the right edge of the surface after 10 seconds has been elapsed.</sub>
   </td>
   <td align="center">
     <img src="case-study-result/img5-Membrane-after-15-seconds.png" width="260"><br>
     <b>Membrane after 15 seconds</b><br>
-    <sub>Short description of what the figure shows.</sub>
+    <sub>We can note that the motion of the membrane bounced again to the top from the left edge of the membrane.</sub>
   </td>
   <td align="center">
     <img src="case-study-result/img6-Membrane-after-20-seconds.png" width="260"><br>
     <b>Membrane after 20 seconds</b><br>
-    <sub>Short description of what the figure shows.</sub>
+    <sub>The membrane continued its motion toward the right edge, where it bounced slightly to the top in the middle of the surface.</sub>
   </td>
 </tr>
 
@@ -72,17 +75,17 @@ The solver is implemented in **C++**, built upon an existing numerical computati
   <td align="center">
     <img src="case-study-result/img7-Membrane-after-25-seconds.png" width="260"><br>
     <b>Membrane after 25 seconds</b><br>
-    <sub>Short description of what the figure shows.</sub>
+    <sub>This figure illustrates the state of the membrane at 25 seconds. At this stage, the motion has continued to propagate across the surface, showing a clear spread of the oscillatory pattern.</sub>
   </td>
   <td align="center">
     <img src="case-study-result/img8-Membrane-after-30-seconds.png" width="260"><br>
     <b>Membrane after 30 seconds</b><br>
-    <sub>Short description of what the figure shows.</sub>
+    <sub>At 30 seconds. The motion not only persists but also shows a modest upward bounce as the wave approaches the right edge, indicating a slight reflection or change in amplitude near the boundary.</sub>
   </td>
   <td align="center">
     <img src="case-study-result/img9-Membrane-after-35-seconds.png" width="260"><br>
     <b>Membrane after 35 seconds</b><br>
-    <sub>Short description of what the figure shows.</sub>
+    <sub>This figure shows that the pluck disappeared after 35 seconds, producing oscillation effects.</sub>
   </td>
 </tr>
 
@@ -90,17 +93,17 @@ The solver is implemented in **C++**, built upon an existing numerical computati
   <td align="center">
     <img src="case-study-result/img10-Membrane-after-40-seconds.png" width="260"><br>
     <b>Membrane after 40 seconds</b><br>
-    <sub>Short description of what the figure shows.</sub>
+    <sub>The oscillation effects started bouncing back again from the right edge.</sub>
   </td>
   <td align="center">
     <img src="case-study-result/img11-Membrane-after-45-seconds.png" width="260"><br>
     <b>Membrane after 45 seconds</b><br>
-    <sub>Short description of what the figure shows.</sub>
+    <sub>After 45 seconds, the energies continued to be absorbed.</sub>
   </td>
   <td align="center">
     <img src="case-study-result/img12-Membrane-after-50-seconds.png" width="260"><br>
     <b>Membrane after 50 seconds</b><br>
-    <sub>Short description of what the figure shows.</sub>
+    <sub>After 50 seconds, the surface shows a slight pluck at the right edge, whereas the left side and the middle of the surface is almost flat.</sub>
   </td>
 </tr>
 
@@ -108,12 +111,12 @@ The solver is implemented in **C++**, built upon an existing numerical computati
   <td align="center">
     <img src="case-study-result/img13-Membrane-after-55-seconds.png" width="260"><br>
     <b>Membrane after 55 seconds</b><br>
-    <sub>Short description of what the figure shows.</sub>
+    <sub>At 55 seconds, much of the energy within the system has been absorbed, and the overall motion has begun to diminish.</sub>
   </td>
   <td align="center">
     <img src="case-study-result/img14-Membrane-after-59-seconds.png" width="260"><br>
     <b>Membrane after 59 seconds</b><br>
-    <sub>Short description of what the figure shows.</sub>
+    <sub>At 59 seconds, the remaining oscillations continue to weaken, indicating that the membrane’s motion is steadily mitigating as the system approaches a more settled state.</sub>
   </td>
 </tr>
 </table>
